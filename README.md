@@ -10,7 +10,7 @@ Furthermore, the effectiveness of the window method is analyzed, and the window 
 1. Our code is based on PlatEMO.
 2. With respect to large-scale single-objective problems, we provide methods for embedding the window method and its improved version into the SHADE algorithm, namely W_SHADE and NgISILW_SHADE.
 3. Regarding generalisability, we provide code for the methods OFA, PSO, DE, MVPA combined with NgISILW.
-4. For large-scale multi-objective problems, we provide NgISILW_MOEAD and NgISILW_MOEADDE.
+4. For large-scale multi-objective problems, we provide NgISILW_MOEADDE.
 
 # Quick Start
 1. Users need to download PlatEMO.
