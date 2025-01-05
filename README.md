@@ -1,4 +1,4 @@
-# WindowMethod
+# Window method: a plug-in-style large-scale handling technique for evolutionary algorithm (updating)
 Here is the matlab implementation of the "Window method: a plug-in-style large-scale handling technique for evolutionary algorithm" (based on PlatEMO).
 
 Large-scale optimization constitutes a pivotal characteristic of numerous real-world problems, where large-scale evolutionary algorithms emerge as a potent instrument for addressing such intricacies.
@@ -8,9 +8,10 @@ Furthermore, the effectiveness of the window method is analyzed, and the window 
 
 # Code Statement
 1. Our code is based on PlatEMO.
-2. With respect to large-scale single-objective problems, we provide methods for embedding the window method and its improved version into the SHADE algorithm, namely W_SHADE and NgISILW_SHADE.
-3. Regarding generalisability, we provide code for the methods OFA, PSO, DE, MVPA combined with NgISILW.
-4. For large-scale multi-objective problems, we provide NgISILW_MOEADDE.
+2. **The method class NgISILW will be uploaded when it is accepted and you can now run the W_SHADE algorithm.**
+3. With respect to large-scale single-objective problems, we provide methods for embedding the window method and its improved version into the SHADE algorithm, namely W_SHADE and NgISILW_SHADE.
+4. Regarding generalisability, we provide code for the methods OFA, PSO, DE, MVPA combined with NgISILW.
+5. For large-scale multi-objective problems, we provide NgISILW_MOEADDE.
 
 # Quick Start
 1. Users need to download PlatEMO.
